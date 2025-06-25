@@ -1,0 +1,14 @@
+/* src/index.css */
+
+/* Tailwind CSS directives - these are processed by PostCSS */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Import the Inter font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+/* Apply the Inter font to the body */
+body {
+  font-family: 'Inter', sans-serif;
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "job001",
+    "title": "Software Engineer - Frontend",
+    "company": "Tech Solutions Inc.",
+    "level": "Mid",
+    "location": "Remote",
+    "type": "Full-time",
+    "description": "Join our dynamic team to build and maintain user-facing features using modern JavaScript frameworks like React or Vue. You'll collaborate with UX/UI designers and backend engineers to deliver high-quality software. 3+ years of experience required.",
+    "icon": "",
+    "postedDate": "2024-05-20",
+    "category" : "Informatic"
+  },
+  {
+    "id": "job002",
+    "title": "Product Manager",
+    "company": "Innovate Hub",
+    "level": "Senior",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "description": "Define product vision, strategy, and roadmap for our leading SaaS platform. Work closely with engineering, design, and marketing to deliver impactful products that delight users and drive business growth. Proven experience in product lifecycle management needed.",
+    "icon": "",
+    "postedDate": "2024-05-18",
+    "category" : "Retail"
+  },
+  {
+    "id": "job003",
+    "title": "UX/UI Designer",
+    "company": "Creative Designs Co.",
+    "level": "Mid",
+    "location": "San Francisco, CA",
+    "type": "Contract",
+    "description": "Create intuitive and engaging user experiences for web and mobile applications. Develop wireframes, prototypes, user flows, and high-fidelity designs. Strong portfolio showcasing your design process and skills is essential.",
+    "icon": "",
+    "postedDate": "2024-05-22",
+    "category" : "Design"
+  },
+  {
+    "id": "job004",
+    "title": "Data Scientist",
+    "company": "Analytics Corp.",
+    "level": "Junior",
+    "location": "Austin, TX",
+    "type": "Full-time",
+    "description": "Analyze large, complex datasets to extract meaningful insights and drive data-informed decisions. Develop machine learning models and statistical analyses. Proficiency in Python/R and SQL required.",
+    "icon": "",
+    "postedDate": "2024-05-15",
+    "category" : "Informatic"
+  },
+  {
+    "id": "job005",
+    "title": "Marketing Specialist",
+    "company": "Growth Gurus",
+    "level": "Fresh Graduate",
+    "location": "Remote",
+    "type": "Part-time",
+    "description": "Develop and execute digital marketing campaigns across various channels including SEO, SEM, social media, and email marketing. Track campaign performance and optimize for results. Excellent communication skills needed.",
+    "icon": "",
+    "postedDate": "2024-05-23",
+    "category" : "Retail" 
+  }
+]
